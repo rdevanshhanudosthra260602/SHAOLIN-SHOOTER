@@ -15,7 +15,7 @@ clock = pygame.time.Clock()
 bulletSound = pygame.mixer.music.load(r'C:\Users\ECE\Downloads\x\shoot.mp3')
 hitSound = pygame.mixer.music.load(r'C:\Users\ECE\Downloads\x\hit.mp3')
 
-music = pygame.mixer.music.load(r'C:\Users\ECE\Downloads\x\bgmusic.mp3')
+music = pygame.mixer.music.load(r'C:\Users\ECE\Downloads\x\music.mp3')
 pygame.mixer.music.play(-1)
 
 score = 0
